@@ -1,5 +1,6 @@
 # Anti-Virus 1.0 BETA
 
+
 import os
 import pygame
 import threading
@@ -19,6 +20,7 @@ BLACK = (0, 0, 0)
 
 font = pygame.font.Font(None, 40)
 small_font = pygame.font.Font(None, 24)
+print("Made my No-Name888 from github")
 
 MALWARE_SIGNATURES = [
     b"malicious_file_signature_1",
